@@ -1,4 +1,4 @@
-package com.company.Excercise_25;
+package ru.mirea.task25;
 
 public class Circle implements Shape {
     @Override
