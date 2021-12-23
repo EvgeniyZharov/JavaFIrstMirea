@@ -1,4 +1,4 @@
-package com.company.Excercise_20;
+package ru.mirea.task20;
 
 import java.util.Date;
 import java.util.Objects;
