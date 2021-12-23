@@ -1,4 +1,4 @@
-package com.company.Excercise_30;
+package ru.mirea.task30;
 
 public class People {
     private String name;
