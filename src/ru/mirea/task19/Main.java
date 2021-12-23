@@ -1,4 +1,4 @@
-package com.company.Excercise_19;
+package ru.mirea.task19;
 
 import java.util.Scanner;
 
