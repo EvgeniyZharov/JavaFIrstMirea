@@ -1,4 +1,4 @@
-package com.company.Excercise_28;
+package ru.mirea.task28;
 
 public class task_1 {
     public static void main(String[] args){
