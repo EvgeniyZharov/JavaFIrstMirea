@@ -1,4 +1,4 @@
-package com.company.Excercise_30;
+package ru.mirea.task30;
 
 import org.junit.jupiter.api.Test;
 
