@@ -1,4 +1,4 @@
-package com.company.Excercise_22;
+package ru.mirea.task22;
 
 public class MultifunctionalСhairFactory implements ChairFactory{
     @Override
