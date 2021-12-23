@@ -1,4 +1,4 @@
-package com.company.Excercise_29;
+package ru.mirea.task29;
 
 import java.io.Serializable;
 
