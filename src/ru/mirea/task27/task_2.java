@@ -1,4 +1,4 @@
-package com.company.Excercise_27;
+package ru.mirea.task27;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
