@@ -1,4 +1,4 @@
-package ru.mirea.task120;
+package ru.mirea.task20;
 
 import java.util.Date;
 import java.util.Scanner;
