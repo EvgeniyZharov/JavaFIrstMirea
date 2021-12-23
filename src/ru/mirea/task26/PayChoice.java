@@ -1,4 +1,4 @@
-package com.company.Excercise_26;
+package ru.mirea.task26;
 
 public class PayChoice {
     Payment payment;
