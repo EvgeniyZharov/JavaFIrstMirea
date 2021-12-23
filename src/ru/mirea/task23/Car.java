@@ -1,4 +1,4 @@
-package com.company.Excercise_23;
+package ru.mirea.task23;
 
 public class Car {
     private int year = 0;
