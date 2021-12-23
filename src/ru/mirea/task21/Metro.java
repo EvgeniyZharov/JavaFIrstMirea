@@ -1,4 +1,4 @@
-package com.company.Excercise_21;
+package ru.mirea.task21;
 
 import java.util.LinkedList;
 
