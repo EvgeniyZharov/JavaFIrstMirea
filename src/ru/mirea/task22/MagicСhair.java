@@ -1,4 +1,4 @@
-package com.company.Excercise_22;
+package ru.mirea.task22;
 
 public class MagicСhair implements Chair{
     public void output(){
