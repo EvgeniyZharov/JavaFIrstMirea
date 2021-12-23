@@ -1,4 +1,4 @@
-package com.company.Excercise_24;
+package ru.mirea.task24;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.Scanner;
